@@ -1,16 +1,57 @@
-# news_cleanarch
+# 📰 News App
 
-A new Flutter project.
+This is a modern Flutter application that fetches real-time news articles using the [NewsAPI.org](https://newsapi.org/) API. The app displays the latest news by category and supports a clean and dynamic UI experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
+- 🗞️ View latest news articles across multiple categories
+- 🔍 Search functionality
+- 🎨 Light and dark theme switching
+- 🌐 English and Arabic language support
+- 📡 Real-time data from **NewsAPI.org**
+- 🧱 Clean Architecture with separation of concerns
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tech Stack
+- **Flutter**
+- **Dio** for HTTP requests
+- **Provider** for state management
+- **Clean Architecture**
+- **Localization** (Intl)
+- **NewsAPI** integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Cover Design
+
+<p align="center">
+    <img src="assets/news.png" alt="News Page" width="600"/>
+
+</p>
+
+---
+
+## 🎨 Some App UI Screens
+
+<p align="center">
+  <img src="assets/Home%20(3).png" alt="Home 3" width="220"/>
+  <img src="assets/Home%20(2).png" alt="Home 2" width="220"/>
+  <img src="assets/Home%20(1).png" alt="Home 1" width="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/Splash.png" alt="Splash Screen" width="220"/>
+</p>
+
+---
+
+## 📡 API Used
+
+This project uses the **[NewsAPI.org](https://newsapi.org/)** to retrieve and display breaking news and top headlines.
+
+---
+
+> If you like the project, please ⭐ the repo or fork it for your own use!
+
