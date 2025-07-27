@@ -16,10 +16,9 @@ This is a modern Flutter application that fetches real-time news articles using 
 
 ## 🚀 Tech Stack
 - **Flutter**
-- **Dio** for HTTP requests
 - **Provider** for state management
 - **Clean Architecture**
-- **Localization** (Intl)
+- **Localization** 
 - **NewsAPI** integration
 
 ---
